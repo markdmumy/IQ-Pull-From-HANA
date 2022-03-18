@@ -1,3 +1,4 @@
+-- must run in IQ or HDLRE for FORWARD TO to work
 forward to MY_HDB;
 drop SEQUENCE mySequence ;
 CREATE SEQUENCE mySequence START WITH 10 INCREMENT BY 1;
