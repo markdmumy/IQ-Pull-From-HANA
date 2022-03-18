@@ -6,4 +6,3 @@ ServerNode=<hana_host_or_IP>:30015;
 UID=<hana_user>;PWD=<hana_password>;
 '
 ;
-
